@@ -3,6 +3,7 @@ import Icon from "./Icon";
 const Unlock = () => {
   const handleUnlock = () => {
     alert("Try to open your safe"); // 알림 표시 (예시)
+    console.log("aa");
   };
 
   return (
