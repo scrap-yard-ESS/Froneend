@@ -1,0 +1,12 @@
+@import url("https://fastly.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css");
+
+* {
+  background-color: #f8faff;
+  font-family: WantedSansVariable;
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  height: 100vh;
+}
